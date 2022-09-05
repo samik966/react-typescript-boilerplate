@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
